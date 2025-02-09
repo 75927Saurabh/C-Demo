@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Saurabh");
             Console.WriteLine("Akash");
+            Console.WriteLine("Sneha");
             Console.ReadLine();
         }
     }
