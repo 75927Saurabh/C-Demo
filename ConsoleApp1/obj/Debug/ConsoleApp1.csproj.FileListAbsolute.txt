@@ -6,3 +6,11 @@ C:\Users\Saurabh\Desktop\GitPractice\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.Su
 C:\Users\Saurabh\Desktop\GitPractice\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 C:\Users\Saurabh\Desktop\GitPractice\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\Saurabh\Desktop\GitPractice\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Saurabh\Desktop\GitPull\C-Demo\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Saurabh\Desktop\GitPull\C-Demo\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Saurabh\Desktop\GitPull\C-Demo\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Saurabh\Desktop\GitPull\C-Demo\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Saurabh\Desktop\GitPull\C-Demo\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saurabh\Desktop\GitPull\C-Demo\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Saurabh\Desktop\GitPull\C-Demo\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Saurabh\Desktop\GitPull\C-Demo\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
